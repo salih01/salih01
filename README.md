@@ -1,0 +1,119 @@
+### Hi there 👋<h2> I'm Salih</h2>
+
+<img align='right' src="https://media.giphy.com/media/8abAbOrQ9rvLG/giphy.gif" width="400" height="300">
+
+<h3> •💻 About Me </h3>
+
+
+
+- 🤔 &nbsp; Hi there, I'm Salih 🫡
+
+- 🎓 &nbsp; I am Computer Engineer 😎
+
+- 👾 &nbsp; I am coding swift 😎
+
+
+
+
+
+<h3>🛠 Tech Stack</h3>
+
+
+
+- 💻 &nbsp; Swift
+
+- 🌐 &nbsp; Unity
+
+
+
+
+<h3>🛠 To Learn</h3>
+
+- 🔧 &nbsp; Realm | CoreData | Firebase | CocoaPods
+
+<hr>
+
+
+
+
+
+<h3> 🤝🏻 Connect with Me </h3>
+
+<br>
+
+<p align="center">
+
+[<img  width="64" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/youtube.svg" />][youtube]
+[<img  width="64"  src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/twitter.svg" />][twitter]
+[<img  width="64"  src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/linkedin.svg" />][linkedin]
+[<img  width="64"  src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/apple.svg" />][apple]
+
+
+
+
+[blog]:https://salihcakmak.com
+[linkedin]:https://www.linkedin.com/in/salihcakmak/
+[youtube]:https://www.youtube.com/channel/UC-hFZR424vEoDLoz0zjFt0Q
+[twitter]:https://twitter.com/salihcakmak_dev
+[apple]:https://apps.apple.com/tr/developer/mehmet-salih-cakmak/id1620610562?l=tr
+
+
+
+
+<hr>
+
+## 𝗪𝗵𝗮𝘁 𝗜 𝗨𝘀𝗲
+
+<table>
+  <tbody>
+    <tr valign="top">
+      <td width="25%" align="center">
+        <span>Apple Technology</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/apple.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>Swift</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/swift.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>Unity</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/unity.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>Java</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/java.svg">
+      </td>
+    </tr>
+    <tr valign="top">
+      <td width="25%" align="center">
+        <span>SQLite</span><br><br><br>
+        <img height="64px" src="https://cdn.worldvectorlogo.com/logos/sqlite.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>𝗚𝗶𝘁</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>PostgreSQL</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/postgresql.svg">
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+
+<br/><br/>
+
+[![Shivam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=salih01&show_icons=true)](https://github.com/salih01)
+
+<br/>
+
+<br/>
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=salih01&show_icons=true)
+
+<br><br>
+
+
+
