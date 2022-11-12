@@ -46,7 +46,7 @@
 [<img  width="64" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/youtube.svg" />][youtube]
 [<img  width="64"  src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/twitter.svg" />][twitter]
 [<img  width="64"  src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/linkedin.svg" />][linkedin]
-[<img  width="64"  src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/apple.svg" />][apple]
+[<img height="64px" src="https://cdn.svgporn.com/logos/swift.svg">][apple]
 
 
 
