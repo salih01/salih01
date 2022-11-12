@@ -43,10 +43,10 @@
 
 <p align="center">
 
-[<img  width="64" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/youtube.svg" />][youtube]
-[<img  width="64"  src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/twitter.svg" />][twitter]
-[<img  width="64"  src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/linkedin.svg" />][linkedin]
-[<img height="64px" src="https://cdn.svgporn.com/logos/swift.svg">][apple]
+[<img height="64px" src="https://cdn.svgporn.com/logos/youtube.svg" />][youtube]
+[<img height="64px" src="https://cdn.svgporn.com/logos/twitter.svg" />][twitter]
+[<img height="64px" src="https://cdn.svgporn.com/logos/linkedin.svg" />][linkedin]
+[<img height="64px" src="https://cdn.svgporn.com/logos/apple.svg" />][apple]
 
 
 
