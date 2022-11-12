@@ -47,7 +47,7 @@
 [<img height="64px" src="https://cdn.svgporn.com/logos/twitter.svg" />][twitter]
 [<img height="64px" src="https://cdn.svgporn.com/logos/linkedin.svg" />][linkedin]
 [<img height="64px" src="https://cdn.svgporn.com/logos/apple.svg" />][apple]
-[<img height="64px" src="https://cdn.svgporn.com/logos/blog.svg" />][blog]
+[<img height="64px" src="https://cdn.svgporn.com/logos/blogger.svg" />][blog]
 
 
 
