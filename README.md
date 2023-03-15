@@ -27,9 +27,9 @@
 
 
 
-<h3>🛠 To Learn</h3>
+<h3>🛠 </h3>
 
-- 🔧 &nbsp; Realm | CoreData | Firebase | CocoaPods
+- 🔧 &nbsp; Realm | CoreData | Firebase | CocoaPods| Alamofire
 
 <hr>
 
@@ -81,8 +81,8 @@
         <img height="64px" src="https://webimages.mongodb.com/_com_assets/cms/l0wqwqfmlb2sjq0c4-realm_logo.svg?auto=format%252Ccompress&w=256&quality=75">
       </td>
       <td width="25%" align="center">
-        <span>Java</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/java.svg">
+        <span>Alamofire</span><br><br><br>
+        <img height="64px" src="https://raw.githubusercontent.com/Alamofire/Alamofire/master/Resources/AlamofireLogo.png">
       </td>
     </tr>
     <tr valign="top">
