@@ -78,7 +78,7 @@
       </td>
       <td width="25%" align="center">
         <span>Realm</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/realm.svg">
+        <img height="64px" src="https://webimages.mongodb.com/_com_assets/cms/l0wqwqfmlb2sjq0c4-realm_logo.svg?auto=format%252Ccompress&w=256&quality=75">
       </td>
       <td width="25%" align="center">
         <span>Java</span><br><br><br>
