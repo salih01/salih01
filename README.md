@@ -69,8 +69,8 @@
   <tbody>
     <tr valign="top">
       <td width="25%" align="center">
-        <span>Apple Technology</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/apple.svg">
+        <span>Source Tree</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/sourcetree.svg">
       </td>
       <td width="25%" align="center">
         <span>Swift</span><br><br><br>
