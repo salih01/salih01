@@ -103,18 +103,6 @@
 </table>
 
 
-<br/><br/>
-
-[![Shivam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=salih01&show_icons=true)](https://github.com/salih01)
-
-<br/>
-
-<br/>
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=salih01&show_icons=true)
-
-<br><br>
 
 
 
