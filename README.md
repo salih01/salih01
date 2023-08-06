@@ -64,46 +64,4 @@
 
 <hr>
 
-## 𝗪𝗵𝗮𝘁 𝗜 𝗨𝘀𝗲
-
-<table>
-  <tbody>
-    <tr valign="top">
-      <td width="25%" align="center">
-        <span>Source Tree</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/sourcetree.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>Swift</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/swift.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>Realm</span><br><br><br>
-        <img height="64px" src="https://webimages.mongodb.com/_com_assets/cms/l0wqwqfmlb2sjq0c4-realm_logo.svg?auto=format%252Ccompress&w=256&quality=75">
-      </td>
-      <td width="25%" align="center">
-        <span>Alamofire</span><br><br><br>
-        <img height="64px" src="https://raw.githubusercontent.com/Alamofire/Alamofire/master/Resources/AlamofireLogo.png">
-      </td>
-    </tr>
-    <tr valign="top">
-      <td width="25%" align="center">
-        <span>SQLite</span><br><br><br>
-        <img height="64px" src="https://cdn.worldvectorlogo.com/logos/sqlite.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>𝗚𝗶𝘁</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>PostgreSQL</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/postgresql.svg">
-      </td>
-    </tr>
-  </tbody>
-</table>
-
-
-
-
 
