@@ -5,37 +5,21 @@
 
 <h3> •💻 About Me </h3>
 
-
-
 - 🤔 &nbsp; Hi there, I'm Salih 🫡
 
 - 🎓 &nbsp; I am Computer Engineer 😎
 
 - 👾 &nbsp; I am coding swift 😎
 
-
-
-
-
 <h3>🛠 Tech Stack</h3>
-
-
 
 - 💻 &nbsp; Swift
 
 - 🌐 &nbsp; Unity
 
-
-
-
 <h3>🛠 </h3>
 
 - 🔧 &nbsp; Realm | CoreData | Firebase | CocoaPods| Alamofire
-
-<hr>
-
-
-
 
 
 <h3> 🤝🏻 Connect with Me </h3>
@@ -50,18 +34,8 @@
 [<img height="100px" src="https://cdn.svgporn.com/logos/apple.svg" />][apple]
 [<img height="64px" src="https://cdn.svgporn.com/logos/blogger.svg" />][blog]
 
-
-
-
 [blog]:https://salihcakmak.com
 [linkedin]:https://www.linkedin.com/in/salihcakmak/
 [youtube]:https://www.youtube.com/channel/UC-hFZR424vEoDLoz0zjFt0Q
 [twitter]:https://twitter.com/salihcakmak_dev
 [apple]:https://apps.apple.com/tr/developer/mehmet-salih-cakmak/id1620610562?l=tr
-
-
-
-
-<hr>
-
-
