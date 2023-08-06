@@ -1,7 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&customColorList=3&text=Salih %20Çakmak&fontAlignY=45&desc=iOS%20Developer&descAlignY=25&descAlign=60&fontColor=394A58&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&customColorList=3&text=Salih%20%C3%87akmak&fontAlignY=45&desc=iOS%20Developer&descAlignY=25&descAlign=60&fontColor=394A58&fontSize=50)
 <br>
 
 <img align='right' src="https://media.giphy.com/media/8abAbOrQ9rvLG/giphy.gif" width="400" height="300">
+
 
 <h3> •💻 About Me </h3>
 
